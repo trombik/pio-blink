@@ -1,5 +1,7 @@
 # pio-blink
 
+[![Build Status](https://travis-ci.org/trombik/pio-blink.svg?branch=master)](https://travis-ci.org/trombik/pio-blink)
+
 A `platform.io` project that builds `blink.ino` for multiple boards.
 
 ## Usage
